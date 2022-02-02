@@ -58,7 +58,7 @@ function App() {
           height="200px" 
           />
           <h1 className="pt-4">
-            <a href="https://github.com/GeovanniSantos" target="_new" className="text-decoration-none">
+            <a href={userData.html_url} target="_new" className="text-decoration-none">
               {userData.name} 
             </a>
           </h1>
