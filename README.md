@@ -4,6 +4,8 @@
 
 ## Sobre o projeto
 
+https://geovannisantos.github.io/search-profile/
+
 SearchProfile é uma aplicação front end construído para pesquisar perfil no github utilizando React com Api externa. 
 
 ## Tecnologias utilizadas
