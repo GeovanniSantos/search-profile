@@ -2,7 +2,7 @@
 
 ![animation](https://github.com/GeovanniSantos/search-profile/blob/main/assets/animação.gif)
 
-## Sobre o projeto
+## Sobre o projeto 
 
 https://geovannisantos.github.io/search-profile/
 
